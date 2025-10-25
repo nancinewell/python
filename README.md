@@ -6,12 +6,10 @@ Embarking on this task, I set down an idea of a program that I wanted to make, b
 
 We gamify our school around here, and have characters that level up and gain skills based on what the kids do in school. This little quiz is to help them decide what class they might want their character to be based on their answers. The kids have a tendancy to have a hard time deciding, so this is meant to streamline that process. They don't have to be what the quiz tells them they're suited for, but by answering the questions, they'll get an idea of what they want so they won't be stuck in indecision.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lz40S8K4EP8)
 
 # Development Environment
-I wrote this program in the IDE Visual Studio Code version 1.105.1 with 4 extensions to make it more friendly to Python: Pylance, Python, Python Debugger, and Python Environments. 
+I wrote this program in the IDE Visual Studio Code version 1.105.1 with 4 extensions to make it more friendly to Python: Pylance, Python, Python Debugger, and Python Environments.
 
 I wrote this program using Python with Tkinter
 
@@ -28,7 +26,6 @@ I wrote this program using Python with Tkinter
 - [Tkinter Beginner Course - Python GUI Development (Video)](https://www.youtube.com/watch?v=ibf5cx221hk)
 - [Tkinter Tutorial (Video)](https://www.youtube.com/watch?v=X5yyKZpZ4vU)
 - [Tkinter Course - Create Graphic User Interfaces in Python Tutorial (Video)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
-
 - [Sololearn](http://sololearn.com)
 
 # Future Work
