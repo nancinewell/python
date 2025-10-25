@@ -1,3 +1,4 @@
+#import questions
 from qa import QandA
 
 # class QandA: 
